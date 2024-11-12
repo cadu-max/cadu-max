@@ -18,8 +18,8 @@ Please contact me, I will do for you ASAP and my best to create a "Best Quality"
 </p>
 
 #### Website & Mobile Development
-- <b>Front-end</b> :  React.js | React Native | Expo | Swift | Next.js | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI | Docker
-- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel | Python | Django | Flask | Go | Spring Boot
+- <b>Front-end</b> :  React.js | React Native | Expo | Swift | Next.js | Angular | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI | Docker
+- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel | Python | Django | Flask | Go | Spring Boot | .NET
 - <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS | GraphQL
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
