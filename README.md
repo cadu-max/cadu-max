@@ -6,7 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=BTC415&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Fullstack Web & Blockchain Developer
+## Fullstack Web && Mobile & Blockchain Developer
 
 -@- Dream is yours, Implement is mine. -@-
 <p style = "margin-left: 30px">
@@ -17,10 +17,10 @@ Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 
-#### Website Development
-- <b>Front-end</b> :  React.js | Next.js | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI
-- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel 
-- <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS
+#### Website & Mobile Development
+- <b>Front-end</b> :  React.js | React Native | Expo | Swift | Next.js | Gatsby.js | Redux | TailwindCSS | Bootstrap | MUI | Docker
+- <b>Back-end</b> : Node.js | Express.js | Nest.js | Laravel | Python | Django | Flask | Go | Spring Boot
+- <b>Database</b> : Mysql | PostgreSQL | MongoDB | IPFS | GraphQL
 - <b>CMS</b> : Wordpress | Shopify | Contentful | Headless CMS
 - Amazon Web Services (Lambda, EC2, S3, Secret Manager, SNS, SES, Route53, DynamoDB, etc), Google Cloud Platform, Firebase, Supabase and so on
 #### Blockchain Development
